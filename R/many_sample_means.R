@@ -1,5 +1,9 @@
+#'Allows you to replicate finding the mean of samples from your vector 
 #'
 #'
+#'@param vec The vector to be sampled from 
+#'@param n The number to be sampled from the vector 
+#'@param reps How many times this process should be repeated 
 #'
 #'
 #' @import tidyverse
