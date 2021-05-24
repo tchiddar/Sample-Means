@@ -1,3 +1,9 @@
+#'Takes a sample of a given vector and finds the mean
+#'
+#'
+#'@param vec The vector to be sampled from 
+#'@param n The amount to be sampled from the vector
+#'
 #'
 #'
 #'
