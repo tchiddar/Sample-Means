@@ -1,3 +1,9 @@
+#'To find the sample means of many different sample sizes 
+#'
+#'@param vec The vector to be sampled from 
+#'@param reps The number of times for the process to be repeated
+#'@param ns The vector of sample sizes
+#'
 #'
 #'
 #'
